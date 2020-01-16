@@ -1,0 +1,3 @@
+#!/bin/bash
+scp ./fproj.asm dalalm1@moore.mcmaster.ca.:./2XA3/fproj/fproj.asm
+
